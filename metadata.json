@@ -1,0 +1,6 @@
+{
+  "name": "Blinkit - Quick Commerce Delivery in 8 Minutes",
+  "description": "Everything delivered in 8 minutes. Order milk, bread, eggs, breakfast cereals, paneer, curd, batter, and daily essentials with instant checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
